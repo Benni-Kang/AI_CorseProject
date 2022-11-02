@@ -13,9 +13,12 @@ Hello😇😇😇, 大家请遵守命名规则 😁
 ### 1. Short Progress Report (Before 11.04)
 
 1.1 no more than 2 A4 paper report
-(1) topic selection
+(1) topic selection, motivation
+
 (2) work progress (with contribution of each group member clearly stated)
+
 (3) challenges encountered
+
 (4) and plans to tackle the challenges
 
 ### 2. Final (12.3)
